@@ -1,6 +1,5 @@
 package Veiculo;
 
-// Criação classe abstrata Veiculo 
 public abstract class Veiculo {
     public String marca;
     public String modelo;

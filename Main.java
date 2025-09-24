@@ -2,7 +2,6 @@ package Veiculo;
 
 public class Main {
     public static void main(String[] args) {
-
         // Criando um carro
         Carro carro = new Carro("Renault", "Clio", 2022, 4);
         
